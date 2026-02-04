@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Slava's Notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Добро пожаловать в мои публичные заметки.
